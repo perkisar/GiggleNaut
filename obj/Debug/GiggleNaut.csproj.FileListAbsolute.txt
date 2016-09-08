@@ -1,0 +1,6 @@
+C:\Users\sarah.VANCOUVERBOLT\Desktop\Current Projects\Websites\Portfolio\GiggleNaut\GiggleNaut\bin\GiggleNaut.dll.config
+C:\Users\sarah.VANCOUVERBOLT\Desktop\Current Projects\Websites\Portfolio\GiggleNaut\GiggleNaut\bin\GiggleNaut.dll
+C:\Users\sarah.VANCOUVERBOLT\Desktop\Current Projects\Websites\Portfolio\GiggleNaut\GiggleNaut\bin\GiggleNaut.pdb
+C:\Users\sarah.VANCOUVERBOLT\Desktop\Current Projects\Websites\Portfolio\GiggleNaut\GiggleNaut\obj\Debug\GiggleNaut.csprojResolveAssemblyReference.cache
+C:\Users\sarah.VANCOUVERBOLT\Desktop\Current Projects\Websites\Portfolio\GiggleNaut\GiggleNaut\obj\Debug\GiggleNaut.dll
+C:\Users\sarah.VANCOUVERBOLT\Desktop\Current Projects\Websites\Portfolio\GiggleNaut\GiggleNaut\obj\Debug\GiggleNaut.pdb

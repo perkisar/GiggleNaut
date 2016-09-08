@@ -1,0 +1,70 @@
+﻿body, html {
+    width:100%;
+    height:100%;
+    margin:0;
+}
+#cover {
+    background:url(/img/brain/BRAIN.jpg) fixed;
+    background-size:contain;
+    background-position:center;
+    width:100%;
+    height:100%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+
+.brains {
+    width:100%;
+    height:10%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.brains div {
+    padding:5px 15px 5px 15px;
+    color:#fff;
+    text-shadow: 2px 2px 40px #333333, 6px 4px 0px #333333, 8px 6px 0px #333333;
+ }
+
+.leftBrain, .rightBrain {
+    width:900px;
+}
+
+.leftBrain h1, .rightBrain h1 {
+    width:800px;
+}
+
+.leftBrain h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size:7vw;
+    padding-bottom:15px;
+    font-weight:500;
+    text-align:right;
+}
+.rightBrain h1 {
+    font-family: 'Allura', cursive;
+    font-size:8vw;
+    font-weight:400;
+    text-align:left;
+}
+
+.brainDivider {
+    font-family: 'Allura', cursive;
+    font-size:4vw;
+}
+
+.overlay {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.best {
+    font-family: 'Raleway', sans-serif;
+    font-size: 4vw;
+    font-weight: 900;
+    color: #fff;
+    text-shadow: 6px 6px 0px #333333;
+}
